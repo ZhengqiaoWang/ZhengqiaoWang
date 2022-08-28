@@ -1,7 +1,7 @@
 ## About me
 
 - Junior Programmer
-- Website: [http://me.zhengqiao.wang/](http://me.zhengqiao.wang/)
+- Website: [https://www.zhengqiao.wang/](https://www.zhengqiao.wang/)
 
 ## 🌟 **My Skills** 
 
