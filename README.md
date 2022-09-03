@@ -13,7 +13,7 @@
 
 ## 🌱 **I’m currently learning**
 
-- Apache Arrow
+- Polars
 - CloudNative
 
 <!--
