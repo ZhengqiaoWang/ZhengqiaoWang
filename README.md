@@ -11,10 +11,10 @@
 ![](https://img.shields.io/badge/-C-brightgreen?style=flat-square&logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-green?style=flat-square&logo=c&logoColor=fff)
 
-## 🌱 **I’m currently learning**
+## 🔭 I’m currently working on**
 
-- Polars
-- CloudNative
+- C++ with network and cloud native
+- Python
 
 <!--
 **ZhengqiaoWang/ZhengqiaoWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
